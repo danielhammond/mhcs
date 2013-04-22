@@ -71,6 +71,26 @@ public class Module {
         }
     }
 
+    public String getCode() {
+        return code;
+    }
+
+    public String getXCoor() {
+        return xcoor;
+    }
+
+    public String getYCoor() {
+        return ycoor;
+    }
+
+    public String getDamage() {
+        return damage;
+    }
+
+    public String getTurns() {
+        return turns;
+    }
+
     /**
      *
      * @return type the type of module
